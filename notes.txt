@@ -1,0 +1,9 @@
+freetype issue qith qdoled
+https://gitlab.freedesktop.org/freetype/freetype/-/issues/1182
+
+fontconfig issue
+https://gitlab.freedesktop.org/fontconfig/fontconfig/-/issues/328
+
+freetype subpixel render
+https://freetype.org/freetype2/docs/reference/ft2-lcd_rendering.html#ft_library_setlcdgeometry
+
